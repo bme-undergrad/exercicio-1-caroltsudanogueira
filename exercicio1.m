@@ -7,7 +7,7 @@ imax = 20;
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% digite seu codigo aqui
+% digite seu codigo aqui 
 t = zeros(imax,1); % alterar
 t(1) = x0
 erro = zeros(length(t),1)
