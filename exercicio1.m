@@ -23,7 +23,7 @@ for ii = 1:length(t)-1
 endfor
 
 disp('O tempo é:')
-t(ii)
+t=t(ii)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
